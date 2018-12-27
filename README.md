@@ -1,2 +1,2 @@
 # LDPC-experiments
-Experiments with LDPC codes
+Source code for various experiments with CCSDS LDPC encoding
